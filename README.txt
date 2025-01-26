@@ -1,0 +1,1 @@
+This code is meant for a visual representation of Banker's Algorithm. Originally made for a presentation about Deadlocks.
